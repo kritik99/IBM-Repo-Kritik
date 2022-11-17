@@ -1,2 +1,2 @@
-# IBM-Repo-Kritik
+# IBM Repo-Kritik
 IBM Assignments
